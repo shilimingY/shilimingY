@@ -21,4 +21,4 @@ width="800"  height="3">
 <code><a href="https://react.dev/"><img height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></a></code>
 <code><a href="https://nodejs.org"><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a></code>
 
-
+![HuiDBK's github activity graph](https://raw.githubusercontent.com/shilimingY/shilimingY/output/github-contribution-grid-snake.svg)
